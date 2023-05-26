@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashishkum-bitm
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
